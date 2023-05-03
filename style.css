@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    height: 100vh;
+    font-size: 21px;
+    /* background: linear-gradient(100deg, orange 60%, cyan); */
+}
+.container{
+    padding: 4%;
+    border: 1px solid ;
+    position: absolute;
+    top: 22%;
+    left: 22%;
+    margin: auto;
+    max-width: 100%;
+     }
+
+     .btn{
+        /* width: 80%; */
+        padding: 4%;
+        margin: 5%;
+        background-color: rgb(51, 51, 179);
+        cursor: pointer;
+     }
